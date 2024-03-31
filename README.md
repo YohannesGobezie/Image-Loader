@@ -1,3 +1,4 @@
-'''g++ ./src/*.cpp -I./include -o prog
+```
+g++ ./src/*.cpp -I./include -o prog
 ./prog <filename>
-'''
+```
